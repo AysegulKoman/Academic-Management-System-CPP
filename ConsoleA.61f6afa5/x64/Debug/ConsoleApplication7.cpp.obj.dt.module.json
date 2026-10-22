@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ConsoleA.61f6afa5\\x64\\Debug\\ConsoleApplication7.obj",
+            "outputs": [
+                "ConsoleA.61f6afa5\\x64\\Debug\\ConsoleApplication7.cpp.obj.dt.module.json",
+                "ConsoleA.61f6afa5\\x64\\Debug\\ConsoleApplication7.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

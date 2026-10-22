@@ -1,0 +1,4 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\Asus\source\repos\ConsoleApplication7\ConsoleApplication7.cpp(35,25): warning C4566: '\u2713' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\Asus\source\repos\ConsoleApplication7\ConsoleApplication7.cpp(46,25): warning C4566: '\u2713' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+  ConsoleApplication7.vcxproj -> C:\Users\Asus\source\repos\ConsoleApplication7\x64\Debug\ConsoleApplication7.exe
